@@ -1,0 +1,4 @@
+train: dataset/train
+val: dataset/test
+nc: 4
+names: ['buffalo', 'elephant', 'rhino', 'zebra']
